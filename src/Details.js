@@ -35,8 +35,8 @@ export const logos = {
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "Pavan MG",
-  tagline: "I build things for web",
+  name: "Brandon Gorski",
+  tagline: "I build technology through Web Development, C++ data compression, and designing Proof of Concepts!",
   img: profile,
   about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
 };
@@ -52,43 +52,29 @@ export const socialMediaUrl = {
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
+    Position: "C++ Software Development",
+    Company: "Susquehanna International Group (SIG)",
+    Location: "In-Person",
     Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "Sept 2023 - Present",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
-  },
-  {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Comcast Labs Engineering Co-op",
+    Company: `Comcast`,
+    Location: "Philadelphia, PA",
+    Type: "Full Time",
+    Duration: "Sep 2022 - March 2023",
   },
 ];
 
 // Enter your Education Details here
 export const eduDetails = [
   {
-    Position: "Frontend Development",
-    Company: "Udemy, YouTube, Google, Medium",
-    Location: "Online",
+    Position: "Honors Bachelors in Computer Engineering",
+    Company: `Drexel University`,
+    Location: "Philadelphia",
     Type: "Full Time",
-    Duration: "Jan 2022 - Present",
-  },
-  {
-    Position: "Bachelor in Electronics & Communication",
-    Company: `Your College Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Aug 2020 - Present",
+    Duration: "Sep 2021 - Present",
   },
 ];
 
@@ -98,10 +84,6 @@ export const techStackDetails = {
   css: css,
   js: js,
   react: react,
-  redux: redux,
-  sass: sass,
-  tailwind: tailwind,
-  bootstrap: bootstrap,
   vscode: vscode,
   postman: postman,
   npm: npm,
@@ -170,6 +152,6 @@ project lorem ipsum generator for dummy content`,
 
 // Enter your Contact Details here
 export const contactDetails = {
-  email: "hi@example.com",
-  phone: "+91 12345 67890",
+  email: "brandoncgorski@gmail.com",
+  phone: "",
 };

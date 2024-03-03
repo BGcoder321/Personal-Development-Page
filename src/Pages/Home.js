@@ -46,7 +46,7 @@ function Home() {
       .from(
         myimageref.current,
         {
-          x: "200%",
+          x: "-100%",
           delay: 0.5,
           opacity: 0,
           duration: 2,
@@ -60,7 +60,7 @@ function Home() {
     <main className="container mx-auto max-width section md:flex justify-between items-center">
       <div>
         <h1
-          ref={h11}
+          ref={h11}w
           className="text-2xl text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold"
         >
           Hi,👋<br></br>My Name is<br></br>

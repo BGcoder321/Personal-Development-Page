@@ -95,7 +95,7 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Project title 1",
+    title: "ZSTD part-time open source development",
     image: projectImage1,
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,
@@ -104,7 +104,7 @@ project lorem ipsum generator for dummy content`,
     githubLink: "https://github.com",
   },
   {
-    title: "Project title 2",
+    title: "UnivSocial",
     image: projectImage2,
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,
@@ -113,7 +113,7 @@ project lorem ipsum generator for dummy content`,
     githubLink: "https://github.com",
   },
   {
-    title: "Project title 3",
+    title: "AFK Zoom Bot",
     image: projectImage3,
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,
@@ -122,7 +122,7 @@ project lorem ipsum generator for dummy content`,
     githubLink: "https://github.com",
   },
   {
-    title: "Project title 4",
+    title: "Parallelized Huffman Encoding",
     image: projectImage4,
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,
@@ -131,7 +131,7 @@ project lorem ipsum generator for dummy content`,
     githubLink: "https://github.com",
   },
   {
-    title: "Project title 5",
+    title: "Optimized c compiler",
     image: projectImage5,
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,

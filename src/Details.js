@@ -131,7 +131,7 @@ project lorem ipsum generator for dummy content`,
     githubLink: "https://github.com",
   },
   {
-    title: "Optimized c compiler",
+    title: "Optimized LLVM compiler",
     image: projectImage5,
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,
